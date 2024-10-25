@@ -6,7 +6,8 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 - Image Generator 
 - Proto
-- Data Analysis Projects
+- Data Analysis case studies / Projects
 
+# Tools 
 
-
+[![My Skills](https://skillicons.dev/icons?i=python,r,rstan,react,vue,flutter&perline=3)](https://skillicons.dev)
