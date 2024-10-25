@@ -9,5 +9,8 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 - Data Analysis case studies / Projects
 
 # Tools 
-
-[![My Skills](https://skillicons.dev/icons?i=python,r,rstan,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=python,r,rstan,godot,git,github,linux,neovim,md,latex,linux,docker,arch,&perline=3)](https://skillicons.dev)
+  </a>
+</p>
