@@ -11,6 +11,7 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 - Image Generator 
 - Proto
+- GreqR
 - Data Analysis Case Studies / Projects
 
 ## Tools 
