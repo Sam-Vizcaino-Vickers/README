@@ -9,6 +9,6 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 - Data Analysis case studies / Projects
 
 # Tools 
-<p align="center">
+<p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,stan,godot,git,github,linux,neovim,md,latex,docker,arch&perline=3" />
 </p>
