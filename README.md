@@ -11,7 +11,7 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 - Image Generator 
 - Proto
-- Data Analysis case studies / Projects
+- Data Analysis Case Studies / Projects
 
 ## Tools 
 <p align="left">
