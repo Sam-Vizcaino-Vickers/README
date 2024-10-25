@@ -4,8 +4,9 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 # Projects 
 
-Image Generator 
-Proto
-Data Analysis Projects
+- Image Generator 
+- Proto
+- Data Analysis Projects
+
 
 
