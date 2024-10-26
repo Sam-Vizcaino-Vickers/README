@@ -18,3 +18,9 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,r,godot,git,github,linux,neovim,md,latex,docker,arch&perline=5" />
 </p>
+
+
+## Learning 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,c++,c#,arch&perline=5" />
+</p>
