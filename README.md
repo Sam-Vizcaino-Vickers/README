@@ -17,6 +17,7 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
     - basic fighter game
     - basic rpg game
     - basic visual novel
+    - basic and fun game with *amazing* visuals* and *key mechanics*
 
 
 ## Tools 
