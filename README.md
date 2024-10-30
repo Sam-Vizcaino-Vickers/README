@@ -28,5 +28,5 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 ## Learning 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,ruby&perline=5" />
 </p>
