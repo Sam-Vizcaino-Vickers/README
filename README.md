@@ -11,7 +11,7 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 - Image Generator 
 - Proto
-- GreqR - R package 
+- greqR - R package 
 - Data Analysis Case Studies / Projects
 - 3 games
     - basic fighter game
