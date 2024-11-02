@@ -13,7 +13,7 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 - Proto
 - greqR - R package 
 - Data Analysis Case Studies / Projects
-- 3 games
+- 4 games
     - basic fighter game
     - basic rpg game
     - basic visual novel
