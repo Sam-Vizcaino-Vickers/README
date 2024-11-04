@@ -22,11 +22,11 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 ## Tools 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,godot,git,github,linux,neovim,md,latex,docker,arch,ghidra,julia&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,r,godot,git,github,linux,neovim,md,latex,docker,arch,julia&perline=5" />
 </p>
 
 
 ## Learning 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,ruby&perline=5" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,unity,ruby,ghidra&perline=5" />
 </p>
