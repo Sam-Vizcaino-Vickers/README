@@ -11,7 +11,8 @@ Project Tasks / Deadline - List of ongoing projects <img src="https://media.teno
 
 - Image Generator 
 - Proto
-- greqR - R package 
+- greqR - R package
+- VizuoSurvey - Application of Linear Visual Suveys
 - Data Analysis Case Studies / Projects
 - 4 games
     - basic fighter game
